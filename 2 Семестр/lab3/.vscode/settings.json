@@ -1,0 +1,24 @@
+{
+  "files.associations": {
+    "random": "c",
+    "streambuf": "c",
+    "math.h": "c",
+    "compare": "c",
+    "tuple": "c",
+    "utility": "c",
+    "bit": "c",
+    "*.tcc": "c",
+    "complex": "c",
+    "exception": "c",
+    "algorithm": "c",
+    "cmath": "c",
+    "functional": "c",
+    "istream": "c",
+    "limits": "c",
+    "numeric": "c",
+    "ostream": "c",
+    "system_error": "c",
+    "typeinfo": "c",
+    "type_traits": "c"
+  }
+}

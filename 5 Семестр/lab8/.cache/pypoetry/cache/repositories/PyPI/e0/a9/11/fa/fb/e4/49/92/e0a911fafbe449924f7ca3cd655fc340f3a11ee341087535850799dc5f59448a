@@ -1,0 +1,1 @@
+9999999999{"name": "auto-mix-prep", "version": "0.2.0", "summary": "Application for automatically preparing stems for mixing.", "requires_dist": ["pydub"], "requires_python": null, "files": [{"file": "auto-mix-prep-0.2.0.tar.gz", "hash": "sha256:5e7d9c6e3fd73c49bf22a216e04d7249d529d8822f5ee3d25f3dcf6c982a92d6"}], "yanked": false, "_cache_version": "2.0.0"}
